@@ -9,7 +9,7 @@
 <p align="left">
 🖥️ Técnica em Informática | IFPI<br>
 🎓 Estudante de Ciência da Computação | UFPI<br>
-💻 Tive contato com C, Python, Java e Spring Boot<br>
+💻 Estudando C, Python, Java e Spring Boot<br>
 📚 Gosto de aprender no meu ritmo, testando e errando até entender
 </p>
 
